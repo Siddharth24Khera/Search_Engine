@@ -1,0 +1,186 @@
+
+Black hole thermodynamics
+From Wikipedia, the free encyclopedia
+In physics, black hole thermodynamics is the area of study that seeks to reconcile the laws of thermodynamics with the existence of black hole event horizons. As the study of the statistical mechanics of black body radiation led to the advent of the theory of quantum mechanics, the effort to understand the statistical mechanics of black holes has had a deep impact upon the understanding of quantum gravity, leading to the formulation of the holographic principle.[1]
+
+
+An artist depiction of two black holes merging, a process in which the laws of thermodynamics are upheld.
+Contents  [hide] 
+1 Black hole
+2 The laws of black hole mechanics
+2.1 Statement of the laws
+2.1.1 The Zeroth Law
+2.1.2 The First Law
+2.1.3 The Second Law
+2.1.4 The Third Law
+2.2 Discussion of the laws
+2.2.1 The Zeroth Law
+2.2.2 The First Law
+2.2.3 The Second Law
+2.2.4 The Third Law
+2.3 Interpretation of the laws
+3 Beyond black holes
+4 See also
+5 Notes
+6 References
+7 External links
+Black hole[edit]
+The only way to satisfy the second law of thermodynamics is to admit that black holes have entropy. If black holes carried no entropy, it would be possible to violate the second law by throwing mass into the black hole. The increase of the entropy of the black hole more than compensates for the decrease of the entropy carried by the object that was swallowed.
+
+Starting from theorems proved by Stephen Hawking, Jacob Bekenstein conjectured that the black hole entropy was proportional to the area of its event horizon divided by the Planck area. Bekenstein suggested (1/2\cdot\ln{2})/4\pi as the constant of proportionality, asserting that if the constant was not exactly this, it must be very close to it. The next year, Hawking showed that black holes emit thermal Hawking radiation[2][3] corresponding to a certain temperature (Hawking temperature).[4][5] Using the thermodynamic relationship between energy, temperature and entropy, Hawking was able to confirm Bekenstein's conjecture and fix the constant of proportionality at 1/4:[6]
+
+S_{\text{BH}} = \frac{kA}{4\ell_{\mathrm{P}}^2}
+where A is the area of the event horizon, calculated at 4\pi R^2, k is Boltzmann's constant, and \ell_{\mathrm{P}}=\sqrt{G\hbar / c^3} is the Planck length. This is often referred to as the Bekenstein–Hawking formula. The subscript BH either stands for "black hole" or "Bekenstein-Hawking". The black hole entropy is proportional to the area of its event horizon A. The fact that the black hole entropy is also the maximal entropy that can be obtained by the Bekenstein bound (wherein the Bekenstein bound becomes an equality) was the main observation that led to the holographic principle.[1]
+
+Although Hawking's calculations gave further thermodynamic evidence for black hole entropy, until 1995 no one was able to make a controlled calculation of black hole entropy based on statistical mechanics, which associates entropy with a large number of microstates. In fact, so called "no hair"[7] theorems appeared to suggest that black holes could have only a single microstate. The situation changed in 1995 when Andrew Strominger and Cumrun Vafa calculated [8] the right Bekenstein-Hawking entropy of a supersymmetric black hole in string theory, using methods based on D-branes and string duality. Their calculation was followed by many similar computations of entropy of large classes of other extremal and near-extremal black holes, and the result always agreed with the Bekenstein-Hawking formula. However, for the Schwarzschild black hole, viewed as the most far-from-extremal black hole, the relationship between micro and macro-states is expected to be clarified from the string theoretical viewpoint. Various studies are in progress, but this has not yet been elucidated.
+
+In Loop quantum gravity (LQG)[9] it is possible to associate a geometrical interpretation to the microstates: these are the quantum geometries of the horizon. LQG offers a geometric explanation of the finiteness of the entropy and of the proportionality of the area of the horizon.[10][11] It is possible to derive, from the covariant formulation of full quantum theory (Spinfoam) the correct relation between energy and area (1st law), the Unruh temperature and the distribution that yields Hawking entropy.[12] The calculation makes use of the notion of dynamical horizon and is done for non-extremal black holes. There seems to be also discussed the calculation of Bekenstein-Hawking entropy from the point of view of LQG.
+
+The laws of black hole mechanics[edit]
+The four laws of black hole mechanics are physical properties that black holes are believed to satisfy. The laws, analogous to the laws of thermodynamics, were discovered by Brandon Carter, Stephen Hawking, and James Bardeen.
+
+Statement of the laws[edit]
+The laws of black hole mechanics are expressed in geometrized units.
+
+The Zeroth Law[edit]
+The horizon has constant surface gravity for a stationary black hole.
+
+The First Law[edit]
+For perturbations of stationary black holes, the change of energy is related to change of area, angular momentum, and electric charge by:
+
+dE = \frac{\kappa}{8\pi}\,dA+\Omega\, dJ+\Phi\, dQ,
+where E is the energy, \displaystyle \kappa is the surface gravity, A is the horizon area, \Omega is the angular velocity, J is the angular momentum, \Phi is the electrostatic potential and Q is the electric charge.
+
+The Second Law[edit]
+The horizon area is, assuming the weak energy condition, a non-decreasing function of time,
+
+\frac{dA}{dt} \geq 0.
+This "law" was superseded by Hawking's discovery that black holes radiate, which causes both the black hole's mass and the area of its horizon to decrease over time.
+
+The Third Law[edit]
+It is not possible to form a black hole with vanishing surface gravity. \displaystyle \kappa = 0 is not possible to achieve.
+
+Discussion of the laws[edit]
+The Zeroth Law[edit]
+The zeroth law is analogous to the zeroth law of thermodynamics which states that the temperature is constant throughout a body in thermal equilibrium. It suggests that the surface gravity is analogous to temperature. T constant for thermal equilibrium for a normal system is analogous to \displaystyle \kappa constant over the horizon of a stationary black hole.
+
+The First Law[edit]
+The left hand side, dE, is the change in energy (proportional to mass). Although the first term does not have an immediately obvious physical interpretation, the second and third terms on the right hand side represent changes in energy due to rotation and electromagnetism. Analogously, the first law of thermodynamics is a statement of energy conservation, which contains on its right hand side the term T dS.
+
+The Second Law[edit]
+The second law is the statement of Hawking's area theorem. Analogously, the second law of thermodynamics states that the change in entropy in an isolated system will be greater than or equal to 0 for a spontaneous process, suggesting a link between entropy and the area of a black hole horizon. However, this version violates the second law of thermodynamics by matter losing (its) entropy as it falls in, giving a decrease in entropy. Generalized second law introduced as total entropy = black hole entropy + outside entropy.
+
+The Third Law[edit]
+Extremal black holes[13] have vanishing surface gravity. Stating that \displaystyle \kappa cannot go to zero is analogous to the third law of thermodynamics which states, the entropy of a system at absolute zero is a well-defined constant. This is because a system at zero temperature exists in its ground state. Furthermore, ?S will reach zero at 0 kelvins, but S itself will also reach zero, at least for perfect crystalline substances. No experimentally verified violations of the laws of thermodynamics are known.
+
+Interpretation of the laws[edit]
+The four laws of black hole mechanics suggest that one should identify the surface gravity of a black hole with temperature and the area of the event horizon with entropy, at least up to some multiplicative constants. If one only considers black holes classically, then they have zero temperature and, by the no hair theorem,[7] zero entropy, and the laws of black hole mechanics remain an analogy. However, when quantum mechanical effects are taken into account, one finds that black holes emit thermal radiation (Hawking radiation) at a temperature
+
+T_{\text{H}} = \frac{\kappa}{2\pi}.
+From the first law of black hole mechanics, this determines the multiplicative constant of the Bekenstein-Hawking entropy which is
+
+S_{\text{BH}} = \frac{A}{4}.
+Beyond black holes[edit]
+Hawking and Page have shown that black hole thermodynamics is more general than black holes, that cosmological event horizons also have an entropy and temperature.[citation needed]
+
+More fundamentally, 't Hooft and Susskind used the laws of black hole thermodynamics to argue for a general Holographic Principle of nature, which asserts that consistent theories of gravity and quantum mechanics must be lower-dimensional. Though not yet fully understood in general, the holographic principle is central to theories like the AdS/CFT correspondence.[14]
+
+There are also connections between black hole entropy and fluid surface tension.[15]
+
+See also[edit]
+Stephen Hawking
+Jacob Bekenstein
+Leonard Susskind
+Joseph Polchinski
+Hawking radiation
+Notes[edit]
+^ Jump up to: a b Bousso, Raphael (2002). "The Holographic Principle". Reviews of Modern Physics 74 (3): 825–874. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825.
+Jump up ^ "First Observation of Hawking Radiation" from the Technology Review
+Jump up ^ Matson, John (Oct 1, 2010). "Artificial event horizon emits laboratory analogue to theoretical black hole radiation". Sci. Am.
+Jump up ^ Charlie Rose: A conversation with Dr. Stephen Hawking & Lucy Hawking
+Jump up ^ A Brief History of Time, Stephen Hawking, Bantam Books, 1988.
+Jump up ^ Majumdar, Parthasarathi (1999). "Black Hole Entropy and Quantum Gravity" 73. p. 147. arXiv:gr-qc/9807045. Bibcode:1999InJPB..73..147M.
+^ Jump up to: a b Bhattacharya, Sourav (2007). "Black-Hole No-Hair Theorems for a Positive Cosmological Constant". Physical Review Letters 99 (20). arXiv:gr-qc/0702006. Bibcode:2007PhRvL..99t1101B. doi:10.1103/PhysRevLett.99.201101.
+Jump up ^ Strominger, A.; Vafa, C. (1996). "Microscopic origin of the Bekenstein-Hawking entropy". Physics Letters B 379: 99. arXiv:hep-th/9601029. Bibcode:1996PhLB..379...99S. doi:10.1016/0370-2693(96)00345-0.
+Jump up ^ See List of loop quantum gravity researchers
+Jump up ^ Rovelli, Carlo (1996). "Black Hole Entropy from Loop Quantum Gravity". Physical Review Letters 77 (16): 3288–3291. arXiv:gr-qc/9603063. Bibcode:1996PhRvL..77.3288R. doi:10.1103/PhysRevLett.77.3288.
+Jump up ^ Ashtekar, Abhay; Baez, John; Corichi, Alejandro; Krasnov, Kirill (1998). "Quantum Geometry and Black Hole Entropy". Physical Review Letters 80 (5): 904–907. arXiv:gr-qc/9710007. Bibcode:1998PhRvL..80..904A. doi:10.1103/PhysRevLett.80.904.
+Jump up ^ Bianchi, Eugenio (2012). "Entropy of Non-Extremal Black Holes from Loop Gravity". arXiv:1204.5122.
+Jump up ^ Kallosh, Renata (1992). "Supersymmetry as a cosmic censor". Physical Review D 46 (12): 5278–5302. arXiv:hep-th/9205027. Bibcode:1992PhRvD..46.5278K. doi:10.1103/PhysRevD.46.5278.
+Jump up ^ For an authoritative review, see Ofer Aharony, Steven S. Gubser, Juan Maldacena, Hirosi Ooguri and Yaron Oz (2000). "Large N field theories, string theory and gravity". Physics Reports 323 (3–4): 183–386. arXiv:hep-th/9905111. Bibcode:1999PhR...323..183A. doi:10.1016/S0370-1573(99)00083-6.
+Jump up ^ Callaway, D. (1996). "Surface tension, hydrophobicity, and black holes: The entropic connection". Physical Review E 53 (4): 3738–3744. arXiv:cond-mat/9601111. Bibcode:1996PhRvE..53.3738C. doi:10.1103/PhysRevE.53.3738. PMID 9964684.
+References[edit]
+Bardeen, J. M.; Carter, B.; Hawking, S. W. (1973). "The four laws of black hole mechanics". Communications in Mathematical Physics 31 (2): 161–170. Bibcode:1973CMaPh..31..161B. doi:10.1007/BF01645742.
+Bekenstein, Jacob D. (April 1973). "Black holes and entropy". Physical Review D 7 (8): 2333–2346. Bibcode:1973PhRvD...7.2333B. doi:10.1103/PhysRevD.7.2333.
+Hawking, Stephen W. (1974). "Black hole explosions?". Nature 248 (5443): 30–31. Bibcode:1974Natur.248...30H. doi:10.1038/248030a0.
+Hawking, Stephen W. (1975). "Particle creation by black holes". Communications in Mathematical Physics 43 (3): 199–220. Bibcode:1975CMaPh..43..199H. doi:10.1007/BF02345020.
+Hawking, S. W.; Ellis, G. F. R. (1973). The Large Scale Structure of Space–Time. New York: Cambridge University Press. ISBN 0-521-09906-4.
+Hawking, Stephen W. (1994). "The Nature of Space and Time". Ar?iv e-print: 9195. arXiv:hep-th/9409195v1. Bibcode:1994hep.th....9195H.
+'t Hooft, Gerardus (1985). "On the quantum structure of a black hole" (PDF). Nuclear Phys. B 256: 727–745. Bibcode:1985NuPhB.256..727T. doi:10.1016/0550-3213(85)90418-3.
+Page, Don (2004). "HAWKING RADIATION AND BLACK HOLE THERMODYNAMICS". New Journal of Physics 7: 203. arXiv:hep-th/0409024. Bibcode:2005NJPh....7..203P. doi:10.1088/1367-2630/7/1/203.
+External links[edit]
+Bekenstein-Hawking entropy on Scholarpedia
+Black Hole Thermodynamics
+Black hole entropy on arxiv.org
+[show] v t e
+Black holes
+[show] v t e
+Quantum gravity
+[show] v t e
+Stephen Hawking
+Categories: Black holesBranches of thermodynamics
+Navigation menu
+Create accountNot logged inTalkContributionsLog inArticleTalkReadEditView history
+
+Search
+Go
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+Languages
+???????
+??????????
+Català
+Español
+?????
+Français
+???
+Italiano
+???
+Occitan
+Português
+Româna
+???????
+Slovencina
+?????? / srpski
+?????
+Türkçe
+??????????
+??
+Edit links
+This page was last modified on 26 September 2015, at 15:51.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersMobile viewWikimedia Foundation Powered by MediaWiki
